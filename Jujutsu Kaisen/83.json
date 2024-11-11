@@ -1,0 +1,11 @@
+{
+  "id": "83",
+  "rank": "C",
+  "name": "Ogami",
+  "card": "https://eve.sukunabot.xyz/a1/83.png",
+  "description":"Old gradma",
+  "aceable": true,
+  "ace": [{"86":2, "87":2},{"86":3, "87":3}],
+  "emote": "<:83:1256116577380732969>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "52",
+  "rank": "D",
+  "name": "Cathy",
+  "card": "https://eve.sukunabot.xyz/a1/52.png",
+  "description":"Green Doll",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:52:1256116360912699464>",
+  "event":false
+}

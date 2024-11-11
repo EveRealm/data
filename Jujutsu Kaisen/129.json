@@ -1,0 +1,11 @@
+{
+  "id": "129",
+  "rank": "C",
+  "name": "Kuchisake Onna",
+  "card": "https://eve.sukunabot.xyz/a1/129.png",
+  "description":"Scary Ghost",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:129:1265252031191584799>",
+  "event":false
+}

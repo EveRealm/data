@@ -1,0 +1,11 @@
+{
+  "id": "33",
+  "rank": "D",
+  "name": "Sotomura",
+  "card": "https://eve.sukunabot.xyz/a1/33.png",
+  "description":"Bully",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:33:1256114528693784666>",
+  "event":false
+}

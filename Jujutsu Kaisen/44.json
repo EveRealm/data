@@ -1,0 +1,11 @@
+{
+  "id": "44",
+  "rank": "D",
+  "name": "Noritoshi's Mother",
+  "card": "https://eve.sukunabot.xyz/a1/44.png",
+  "description":"Erm, idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:44:1256114610206019624>",
+  "event":false
+}

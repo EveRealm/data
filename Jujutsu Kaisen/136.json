@@ -1,0 +1,11 @@
+{
+  "id": "136",
+  "rank": "B",
+  "name": "Round Deer",
+  "card": "https://eve.sukunabot.xyz/a1/136.png",
+  "description":"A Deer",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:136:1279094631228772454>",
+  "event":false
+}

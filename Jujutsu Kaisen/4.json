@@ -1,0 +1,11 @@
+{
+  "id": "4",
+  "rank": "S",
+  "name": "Ryomen Sukuna",
+  "card": "https://eve.sukunabot.xyz/a1/4.png",
+  "description":"Terrible Roomate",
+  "aceable": true,
+  "ace": [{"19":3, "130":3, "131":2, "1":2, "2":2, "60":2, "21":3},{"92":3, "131":3, "104":3, "60":3, "1":3, "2":3, "136":3, "137":3}],
+  "emote": "<:4_:1256115307257532489>",
+  "event":false
+}

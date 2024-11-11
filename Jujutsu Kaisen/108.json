@@ -1,0 +1,11 @@
+{
+  "id": "108",
+  "rank": "B",
+  "name": "Reggie Star",
+  "card": "https://eve.sukunabot.xyz/a1/108.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:108:1256118788445962311>",
+  "event":false
+}

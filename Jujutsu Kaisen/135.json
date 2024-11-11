@@ -1,0 +1,11 @@
+{
+  "id": "135",
+  "rank": "C",
+  "name": "Rabbit Escape",
+  "card": "https://eve.sukunabot.xyz/a1/135.png",
+  "description":"Rabbit Wave",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:135:1279091628258099261>",
+  "event":false
+}

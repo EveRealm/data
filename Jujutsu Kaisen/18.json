@@ -1,0 +1,11 @@
+{
+  "id": "18",
+  "rank": "D",
+  "name": "Tadashi Okazaki",
+  "card": "https://eve.sukunabot.xyz/a1/18.png",
+  "description":"Random person",
+  "aceable": true,
+  "ace": [{"20":2},{"20":3}],
+  "emote": "<:18:1256114405993611304>",
+  "event":false
+}

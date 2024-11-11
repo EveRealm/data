@@ -1,0 +1,11 @@
+{
+  "id": "72",
+  "rank": "A",
+  "name": "Atsuya Kusakabe",
+  "card": "https://eve.sukunabot.xyz/a1/72.png",
+  "description":"Real Swordsmen",
+  "aceable": true,
+  "ace": [{"16":2, "26":2},{"16":3, "26":3}],
+  "emote": "<:72:1256116501774336051>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5",
+  "rank": "B",
+  "name": "Panda",
+  "card": "https://eve.sukunabot.xyz/a1/5.png",
+  "description":"Likes zoo walk",
+  "aceable": true,
+  "ace": [{"7":1, "6":1, "37":1},{"7":2, "37":2}],
+  "emote": "<:5_:1256114319645605939>",
+  "event":false
+}

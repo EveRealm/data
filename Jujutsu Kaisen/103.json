@@ -1,0 +1,11 @@
+{
+  "id": "103",
+  "rank": "A",
+  "name": "Hiromi Higuruma",
+  "card": "https://eve.sukunabot.xyz/a1/103.png",
+  "description":"JJK Batman, Justice",
+  "aceable": true,
+  "ace": [{"126":2},{"126":3, "1":2}],
+  "emote": "<:103:1256118723165556816>",
+  "event":false
+}

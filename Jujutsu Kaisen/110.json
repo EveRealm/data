@@ -1,0 +1,11 @@
+{
+  "id": "110",
+  "rank": "C",
+  "name": "Iori Hazenoki",
+  "card": "https://eve.sukunabot.xyz/a1/110.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:110:1256118796574261292>",
+  "event":false
+}

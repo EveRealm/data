@@ -1,0 +1,11 @@
+{
+  "id": "123",
+  "rank": "D",
+  "name": "Garry Johnson",
+  "card": "https://eve.sukunabot.xyz/a1/123.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:123:1256118883555999835>",
+  "event":false
+}

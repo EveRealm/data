@@ -1,0 +1,11 @@
+{
+  "id": "57",
+  "rank": "C",
+  "name": "Toad",
+  "card": "https://eve.sukunabot.xyz/a1/57.png",
+  "description":"Frog",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:57:1256116393439662131>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "46",
+  "rank": "B",
+  "name": "Haruta Shigemo",
+  "card": "https://eve.sukunabot.xyz/a1/46.png",
+  "description":"Runs from daddy raga",
+  "aceable": true,
+  "ace": [{"8":2, "50":1},{"8":3,"50":2}],
+  "emote": "<:46:1256114624647135252>",
+  "event":false
+}

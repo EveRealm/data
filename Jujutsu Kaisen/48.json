@@ -1,0 +1,11 @@
+{
+  "id": "48",
+  "rank": "D",
+  "name": "Takeda",
+  "card": "https://eve.sukunabot.xyz/a1/48.png",
+  "description":"Ma Boi's teacher",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:48:1256114634637705267>",
+  "event":false
+}

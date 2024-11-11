@@ -1,0 +1,11 @@
+{
+  "id": "32",
+  "rank": "D",
+  "name": "Shota Ito",
+  "card": "https://eve.sukunabot.xyz/a1/32.png",
+  "description":"Bully",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:32:1256114515041456129>",
+  "event":false
+}

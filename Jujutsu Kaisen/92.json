@@ -1,0 +1,11 @@
+{
+  "id": "92",
+  "rank": "S",
+  "name": "Mahoraga",
+  "card": "https://eve.sukunabot.xyz/a1/92.png",
+  "description":"Daddy raga",
+  "aceable": true,
+  "ace": [{"2":2, "46":3, "104":3},{"2":3, "4":2, "130":2}],
+  "emote": "<:92:1256131469223395418>",
+  "event":false
+}

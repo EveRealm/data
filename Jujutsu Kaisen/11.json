@@ -1,0 +1,11 @@
+{
+  "id": "11",
+  "rank": "D",
+  "name": "Student Council President",
+  "card": "https://eve.sukunabot.xyz/a1/11.png",
+  "description":"Yuji's classmate",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:11:1256114360661573693>",
+  "event":false
+}

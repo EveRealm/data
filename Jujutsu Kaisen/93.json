@@ -1,0 +1,11 @@
+{
+  "id": "93",
+  "rank": "D",
+  "name": "Kanamori",
+  "card": "https://eve.sukunabot.xyz/a1/93.png",
+  "description":"Bald guy",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:93:1256116672524456040>",
+  "event":false
+}

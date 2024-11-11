@@ -1,0 +1,11 @@
+{
+  "id": "119",
+  "rank": "C",
+  "name": "Ganesha",
+  "card": "https://eve.sukunabot.xyz/a1/119.png",
+  "description":"Lord Ganesha",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:119:1256118857689464893>",
+  "event":false
+}

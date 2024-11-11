@@ -1,0 +1,11 @@
+{
+  "id": "71",
+  "rank": "C",
+  "name": "Larue",
+  "card": "https://eve.sukunabot.xyz/a1/71.png",
+  "description":"Random shirtless guy",
+  "aceable": true,
+  "ace": [{"69":2},{"69":3}],
+  "emote": "<:71:1256116494882963537>",
+  "event":false
+}

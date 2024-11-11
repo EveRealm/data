@@ -1,0 +1,11 @@
+{
+  "id": "34",
+  "rank": "D",
+  "name": "Nagi Yoshino",
+  "card": "https://eve.sukunabot.xyz/a1/34.png",
+  "description":"Junpie's mom",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:34:1256114540072931361>",
+  "event":false
+}

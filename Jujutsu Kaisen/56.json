@@ -1,0 +1,11 @@
+{
+  "id": "56",
+  "rank": "B",
+  "name": "Max Elephant",
+  "card": "https://eve.sukunabot.xyz/a1/56.png",
+  "description":"Elephant",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:56:1256116387911438396>",
+  "event":false
+}

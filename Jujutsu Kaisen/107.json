@@ -1,0 +1,11 @@
+{
+  "id": "107",
+  "rank": "B",
+  "name": "Hanyu",
+  "card": "https://eve.sukunabot.xyz/a1/107.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:107:1256121469964914689>",
+  "event":false
+}

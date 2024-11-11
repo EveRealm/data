@@ -1,0 +1,11 @@
+{
+  "id": "141",
+  "rank": "S",
+  "name": "Ryuk",
+  "card": "https://eve.sukunabot.xyz/a1/141.png",
+  "description":"Monster, Deathnote Snowwhite",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:141:1297664867188080690>",
+  "event":"Halloween 2024 🎃"
+}

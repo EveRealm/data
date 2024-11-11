@@ -1,0 +1,11 @@
+{
+  "id": "85",
+  "rank": "C",
+  "name": "Niji Ebina",
+  "card": "https://eve.sukunabot.xyz/a1/85.png",
+  "description":"Takes his dog out on walk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:85:1256116592123576361>",
+  "event":false
+}

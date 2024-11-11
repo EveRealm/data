@@ -1,0 +1,11 @@
+{
+  "id": "127",
+  "rank": "D",
+  "name": "Jin Itadori",
+  "card": "https://eve.sukunabot.xyz/a1/127.png",
+  "description":"Yuji's father",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:127:1265252020076679179>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "94",
+  "rank": "S",
+  "name": "Kinji Hakari",
+  "card": "https://eve.sukunabot.xyz/a1/94.png",
+  "description":"Tuca Donka, Restless Gambler",
+  "aceable": true,
+  "ace": [{"134":2, "115":2},{"134":3, "115":3}],
+  "emote": "<:94:1256131456854524014>",
+  "event":false
+}

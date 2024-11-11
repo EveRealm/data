@@ -1,0 +1,11 @@
+{
+  "id": "100",
+  "rank": "C",
+  "name": "Nobuaki Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/100.png",
+  "description":"Zenin Clan Member",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:100:1256118671940522004>",
+  "event":false
+}

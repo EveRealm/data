@@ -1,0 +1,11 @@
+{
+  "id": "116",
+  "rank": "C",
+  "name": "Hagane Daido",
+  "card": "https://eve.sukunabot.xyz/a1/116.png",
+  "description":"Butcher",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:116:1256118842283921479>",
+  "event":false
+}

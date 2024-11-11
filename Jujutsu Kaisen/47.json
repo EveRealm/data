@@ -1,0 +1,11 @@
+{
+  "id": "47",
+  "rank": "D",
+  "name": "Fujinuma",
+  "card": "https://eve.sukunabot.xyz/a1/47.png",
+  "description":"Random person",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:47:1256114629529043036>",
+  "event":false
+}

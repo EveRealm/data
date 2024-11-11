@@ -1,0 +1,11 @@
+{
+  "id": "96",
+  "rank": "C",
+  "name": "Ogi Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/96.png",
+  "description":"Zenin Clan Member",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:96:1256116699728707604>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "133",
+  "rank": "D",
+  "name": "Inventory Curse",
+  "card": "https://eve.sukunabot.xyz/a1/133.png",
+  "description":"ugly",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:133:1265386018366947491>",
+  "event":false
+}

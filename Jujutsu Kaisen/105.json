@@ -1,0 +1,11 @@
+{
+  "id": "105",
+  "rank": "B",
+  "name": "Fumihiko Takaba",
+  "card": "https://eve.sukunabot.xyz/a1/105.png",
+  "description":"Thinks dying is not funny",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:105:1256118745407950858>",
+  "event":false
+}

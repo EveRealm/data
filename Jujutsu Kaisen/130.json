@@ -1,0 +1,11 @@
+{
+  "id": "130",
+  "rank": "A",
+  "name": "Agito",
+  "card": "https://eve.sukunabot.xyz/a1/130.png",
+  "description":"Combination of Shikigamis",
+  "aceable": true,
+  "ace": [{"55":2, "136":2, "54":2},{"55":3, "136":3, "54":3}],
+  "emote": "<:130:1265252400898506774>",
+  "event":false
+}

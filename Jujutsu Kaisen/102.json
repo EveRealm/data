@@ -1,0 +1,11 @@
+{
+  "id": "102",
+  "rank": "S",
+  "name": "Hana Kurusu",
+  "card": "https://eve.sukunabot.xyz/a1/102.png",
+  "description":"Cursed fashion icon, likes ma boi Megumi",
+  "aceable": true,
+  "ace": [{"63":2, "2":2},{"63":3, "2":3}],
+  "emote": "<:102:1256121479402356760>",
+  "event":false
+}

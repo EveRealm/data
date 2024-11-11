@@ -1,0 +1,11 @@
+{
+  "id": "35",
+  "rank": "B",
+  "name": "Takuma Ino",
+  "card": "https://eve.sukunabot.xyz/a1/35.png",
+  "description":"Overexcited Fighter",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:35:1256114546964434986>",
+  "event":false
+}

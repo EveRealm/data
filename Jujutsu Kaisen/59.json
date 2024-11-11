@@ -1,0 +1,11 @@
+{
+  "id": "59",
+  "rank": "D",
+  "name": "Saori",
+  "card": "https://eve.sukunabot.xyz/a1/59.png",
+  "description":"Village girl's idol",
+  "aceable": true,
+  "ace": [{"88":2},{"88":3}],
+  "emote": "<:59:1256116406026506290>",
+  "event":false
+}

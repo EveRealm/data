@@ -1,0 +1,11 @@
+{
+  "id": "115",
+  "rank": "A",
+  "name": "Charles Bernard",
+  "card": "https://eve.sukunabot.xyz/a1/115.png",
+  "description":"Loves spears",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:115:1256118832918171688>",
+  "event":false
+}

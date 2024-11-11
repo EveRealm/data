@@ -1,0 +1,11 @@
+{
+  "id": "61",
+  "rank": "A",
+  "name": "Dagon",
+  "card": "https://eve.sukunabot.xyz/a1/61.png",
+  "description":"Red Octopus",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:61:1256116415682052237>",
+  "event":false
+}

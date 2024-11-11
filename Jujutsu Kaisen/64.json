@@ -1,0 +1,11 @@
+{
+  "id": "64",
+  "rank": "A",
+  "name": "Choso",
+  "card": "https://eve.sukunabot.xyz/a1/64.png",
+  "description":"Blood bender, brother defender",
+  "aceable": true,
+  "ace": [{"49":2, "51":3},{"9":2, "49":3}],
+  "emote": "<:64:1256116445843161090>",
+  "event":false
+}

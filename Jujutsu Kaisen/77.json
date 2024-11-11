@@ -1,0 +1,11 @@
+{
+  "id": "77",
+  "rank": "C",
+  "name": "Riko Amanai",
+  "card": "https://eve.sukunabot.xyz/a1/77.png",
+  "description":"Got 1 shotted",
+  "aceable": true,
+  "ace": [{"118":2, "125":2, "79":2},{"118":3, "125":3, "79":3}],
+  "emote": "<:77:1256116531432259714>",
+  "event":false
+}

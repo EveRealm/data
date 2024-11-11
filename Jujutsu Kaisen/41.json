@@ -1,0 +1,11 @@
+{
+  "id": "41",
+  "rank": "A",
+  "name": "Naobito Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/41.png",
+  "description":"Ego first, everything else last",
+  "aceable": true,
+  "ace": [{"61":2},{"61":3}],
+  "emote": "<:41:1256114591079993358>",
+  "event":false
+}

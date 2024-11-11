@@ -1,0 +1,11 @@
+{
+  "id": "55",
+  "rank": "B",
+  "name": "Nue",
+  "card": "https://eve.sukunabot.xyz/a1/55.png",
+  "description":"Lightning bird",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:55:1256116382093934672>",
+  "event":false
+}

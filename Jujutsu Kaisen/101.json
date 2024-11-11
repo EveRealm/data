@@ -1,0 +1,11 @@
+{
+  "id": "101",
+  "rank": "S",
+  "name": "Hajime Kashimo",
+  "card": "https://eve.sukunabot.xyz/a1/101.png",
+  "description":"Electricity, thrill seeking maniac",
+  "aceable": true,
+  "ace": [{"94":2, "5":3},{"131":2, "94":3}],
+  "emote": "<:101:1256118679578476574>",
+  "event":false
+}

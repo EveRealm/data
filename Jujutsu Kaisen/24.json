@@ -1,0 +1,11 @@
+{
+  "id": "24",
+  "rank": "A",
+  "name": "Hanami",
+  "card": "https://eve.sukunabot.xyz/a1/24.png",
+  "description":"Exploded by Gojo",
+  "aceable": true,
+  "ace": [{"7":2, "38":2},{"7":3, "38":3}],
+  "emote": "<:24:1256114452491669515>",
+  "event":false
+}

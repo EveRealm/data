@@ -1,0 +1,11 @@
+{
+  "id": "31",
+  "rank": "D",
+  "name": "Tsubasa",
+  "card": "https://eve.sukunabot.xyz/a1/31.png",
+  "description":"Bully",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:31:1256114505465729094>",
+  "event":false
+}

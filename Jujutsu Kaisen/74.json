@@ -1,0 +1,11 @@
+{
+  "id": "74",
+  "rank": "C",
+  "name": "Toshihisa Negi",
+  "card": "https://eve.sukunabot.xyz/a1/74.png",
+  "description":"Random guy with mommy",
+  "aceable": true,
+  "ace": [{"68":2},{"68":3}],
+  "emote": "<:74:1256116514189475933>",
+  "event":false
+}

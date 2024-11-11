@@ -1,0 +1,11 @@
+{
+  "id": "90",
+  "rank": "C",
+  "name": "Ko Guy",
+  "card": "https://eve.sukunabot.xyz/a1/90.png",
+  "description":"Grasshopper cursed spirit",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:90:1256116626366009419>",
+  "event":false
+}

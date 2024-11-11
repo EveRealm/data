@@ -1,0 +1,11 @@
+{
+  "id": "7",
+  "rank": "B",
+  "name": "Toge Inumaki",
+  "card": "https://eve.sukunabot.xyz/a1/7.png",
+  "description":"Salmon",
+  "aceable": true,
+  "ace": [{"5":1},{"5":3}],
+  "emote": "<:7_:1256114334254235781>",
+  "event":false
+}

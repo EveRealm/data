@@ -1,0 +1,11 @@
+{
+  "id": "86",
+  "rank": "D",
+  "name": "Honoka",
+  "card": "https://eve.sukunabot.xyz/a1/86.png",
+  "description":"Random girl",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:86:1256116597194625055>",
+  "event":false
+}

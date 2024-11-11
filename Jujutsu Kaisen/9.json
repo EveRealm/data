@@ -1,0 +1,11 @@
+{
+  "id": "9",
+  "rank": "A",
+  "name": "Mahito",
+  "card": "https://eve.sukunabot.xyz/a1/9.png",
+  "description":"Most hated mf",
+  "aceable": true,
+  "ace": [{"61":2, "24":2, "21":2, "10":1},{"61":3, "24":3, "21":3, "10":2}],
+  "emote": "<:9_:1256114345222606959>",
+  "event":false
+}

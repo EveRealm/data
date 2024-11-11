@@ -1,0 +1,11 @@
+{
+  "id": "134",
+  "rank": "B",
+  "name": "Kirara Hoshi",
+  "card": "https://eve.sukunabot.xyz/a1/134.png",
+  "description":"Hakari's girl",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:134:1265395571477450763>",
+  "event":false
+}

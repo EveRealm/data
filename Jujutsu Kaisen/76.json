@@ -1,0 +1,11 @@
+{
+  "id": "76",
+  "rank": "D",
+  "name": "Shiu Kong",
+  "card": "https://eve.sukunabot.xyz/a1/76.png",
+  "description":"Dealer",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:76:1256116524633296916>",
+  "event":false
+}

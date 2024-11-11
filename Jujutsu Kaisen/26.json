@@ -1,0 +1,11 @@
+{
+  "id": "26",
+  "rank": "B",
+  "name": "Kasumi Miwa",
+  "card": "https://eve.sukunabot.xyz/a1/26.png",
+  "description":"Loves a robot",
+  "aceable": true,
+  "ace": [{"39":1},{"39":2}],
+  "emote": "<:26:1256114465225576499>",
+  "event":false
+}

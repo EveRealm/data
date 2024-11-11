@@ -1,0 +1,11 @@
+{
+  "id": "58",
+  "rank": "D",
+  "name": "Tsukamoto",
+  "card": "https://eve.sukunabot.xyz/a1/58.png",
+  "description":"Movie Watcher",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:58:1256116399055573022>",
+  "event":false
+}

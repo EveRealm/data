@@ -1,0 +1,11 @@
+{
+  "id": "23",
+  "rank": "B",
+  "name": "Shoko Ieiri",
+  "card": "https://eve.sukunabot.xyz/a1/23.png",
+  "description":"Diva IRL, Cig addict",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:23:1256114445218873414>",
+  "event":false
+}

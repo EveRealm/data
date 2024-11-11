@@ -1,0 +1,11 @@
+{
+  "id": "10",
+  "rank": "A",
+  "name": "Kento Nanami",
+  "card": "https://eve.sukunabot.xyz/a1/10.png",
+  "description":"Ex Salaryman, Loves beaches",
+  "aceable": true,
+  "ace": [{"35":2, "36":2, "8":2, "78":2},{"35":3, "36":3, "8":3, "78":3, "9":3, "46":3}],
+  "emote": "<:10:1256114351346028555>",
+  "event":false
+}

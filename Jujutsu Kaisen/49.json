@@ -1,0 +1,11 @@
+{
+  "id": "49",
+  "rank": "C",
+  "name": "Kechizu",
+  "card": "https://eve.sukunabot.xyz/a1/49.png",
+  "description":"Cursed Spirit",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:49:1256114642057564311>",
+  "event":false
+}

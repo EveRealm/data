@@ -1,0 +1,11 @@
+{
+  "id": "122",
+  "rank": "D",
+  "name": "Cyrus Veil",
+  "card": "https://eve.sukunabot.xyz/a1/122.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:122:1256118877213954149>",
+  "event":false
+}

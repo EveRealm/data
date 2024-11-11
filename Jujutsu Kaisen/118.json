@@ -1,0 +1,11 @@
+{
+  "id": "118",
+  "rank": "C",
+  "name": "Misato Kuroi",
+  "card": "https://eve.sukunabot.xyz/a1/118.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:118:1256118852870340690>",
+  "event":false
+}

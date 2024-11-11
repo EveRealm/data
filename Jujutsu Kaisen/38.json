@@ -1,0 +1,11 @@
+{
+  "id": "38",
+  "rank": "B",
+  "name": "Noritoshi Kamo",
+  "card": "https://eve.sukunabot.xyz/a1/38.png",
+  "description":"Can't use blood technique properly",
+  "aceable": true,
+  "ace": [{"44":2},{"44":3}],
+  "emote": "<:38:1256114568006995998>",
+  "event":false
+}

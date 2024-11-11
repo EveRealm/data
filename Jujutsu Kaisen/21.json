@@ -1,0 +1,11 @@
+{
+  "id": "21",
+  "rank": "A",
+  "name": "Jogo",
+  "card": "https://eve.sukunabot.xyz/a1/21.png",
+  "description":"Lava Brain, JO-GOAT",
+  "aceable": true,
+  "ace": [{"61":2},{"24":3}],
+  "emote": "<:21:1256114427183366217>",
+  "event":false
+}

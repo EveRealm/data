@@ -1,0 +1,11 @@
+{
+  "id": "73",
+  "rank": "B",
+  "name": "Tamamo",
+  "card": "https://eve.sukunabot.xyz/a1/73.png",
+  "description":"Not a special grade spirit",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:73:1256116509638524979>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "60",
+  "rank": "A",
+  "name": "Uraume",
+  "card": "https://eve.sukunabot.xyz/a1/60.png",
+  "description":"Heavy Voice",
+  "aceable": true,
+  "ace": [{"43":3},{"104":2}],
+  "emote": "<:60:1256116409784864838>",
+  "event":false
+}

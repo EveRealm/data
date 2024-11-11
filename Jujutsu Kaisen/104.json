@@ -1,0 +1,11 @@
+{
+  "id": "104",
+  "rank": "B",
+  "name": "Yorozu",
+  "card": "https://eve.sukunabot.xyz/a1/104.png",
+  "description":"Sukuna's girl",
+  "aceable": true,
+  "ace": [{"25":2},{"25":3}],
+  "emote": "<:104:1256121458984222730>",
+  "event":false
+}

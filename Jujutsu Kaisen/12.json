@@ -1,0 +1,11 @@
+{
+  "id": "12",
+  "rank": "D",
+  "name": "Takeshi Iguchi",
+  "card": "https://eve.sukunabot.xyz/a1/12.png",
+  "description":"Yuji's friend",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:12:1256114365841539102>",
+  "event":false
+}

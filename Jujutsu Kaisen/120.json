@@ -1,0 +1,11 @@
+{
+  "id": "120",
+  "rank": "C",
+  "name": "Kurourushi",
+  "card": "https://eve.sukunabot.xyz/a1/120.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:120:1256118862378962956>",
+  "event":false
+}

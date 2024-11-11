@@ -1,0 +1,11 @@
+{
+  "id": "13",
+  "rank": "D",
+  "name": "Takagi",
+  "card": "https://eve.sukunabot.xyz/a1/13.png",
+  "description":"Yuji's friend",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:13:1256114372237856830>",
+  "event":false
+}

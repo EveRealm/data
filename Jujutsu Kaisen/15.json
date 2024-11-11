@@ -1,0 +1,11 @@
+{
+  "id": "15",
+  "rank": "D",
+  "name": "Wasuke Itadori",
+  "card": "https://eve.sukunabot.xyz/a1/15.png",
+  "description":"Imagine dying in 1st ep",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:15:1256114386175524935>",
+  "event":false
+}

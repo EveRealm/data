@@ -1,0 +1,11 @@
+{
+  "id": "25",
+  "rank": "D",
+  "name": "Tsumiki Fushiguro",
+  "card": "https://eve.sukunabot.xyz/a1/25.png",
+  "description":"Secret Sister",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:25:1256114458925731860>",
+  "event":false
+}

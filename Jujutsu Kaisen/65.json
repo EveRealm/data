@@ -1,0 +1,11 @@
+{
+  "id": "65",
+  "rank": "C",
+  "name": "Junpei",
+  "card": "https://eve.sukunabot.xyz/a1/65.png",
+  "description":"Got imploded",
+  "aceable": true,
+  "ace": [{"31":2, "32":2, "34":2},{"31":3, "32":3, "34":3}],
+  "emote": "<:65:1256116451312668785>",
+  "event":false
+}

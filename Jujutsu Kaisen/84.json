@@ -1,0 +1,11 @@
+{
+  "id": "84",
+  "rank": "C",
+  "name": "Ogami's Grandson",
+  "card": "https://eve.sukunabot.xyz/a1/84.png",
+  "description":"Old grandma's grandson",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:84:1256116584561246298>",
+  "event":false
+}

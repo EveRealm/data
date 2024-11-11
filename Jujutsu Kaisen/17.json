@@ -1,0 +1,10 @@
+{
+  "id": "17",
+  "rank": "D",
+  "name": "Gal",
+  "card": "https://eve.sukunabot.xyz/a1/17.png",
+  "description":"Random person",
+  "aceable": false,
+  "emote": "<:17:1256114398032957440>",
+  "event":false
+}

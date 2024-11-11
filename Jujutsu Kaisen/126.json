@@ -1,0 +1,11 @@
+{
+  "id": "126",
+  "rank": "B",
+  "name": "Judgeman",
+  "card": "https://eve.sukunabot.xyz/a1/126.png",
+  "description":"Judge of the court",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:126:1256118900387479562>",
+  "event":false
+}

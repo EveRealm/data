@@ -1,0 +1,11 @@
+{
+  "id": "27",
+  "rank": "B",
+  "name": "Mai Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/27.png",
+  "description":"Jealous of sister",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:27:1256114474658693140>",
+  "event":false
+}

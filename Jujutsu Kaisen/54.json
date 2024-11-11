@@ -1,0 +1,11 @@
+{
+  "id": "54",
+  "rank": "C",
+  "name": "Great Serpent",
+  "card": "https://eve.sukunabot.xyz/a1/54.png",
+  "description":"Snek",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:54:1256116373654863983>",
+  "event":false
+}

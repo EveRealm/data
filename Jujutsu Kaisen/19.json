@@ -1,0 +1,11 @@
+{
+  "id": "19",
+  "rank": "B",
+  "name": "Finger Bearer",
+  "card": "https://eve.sukunabot.xyz/a1/19.png",
+  "description":"Tasted first domain by Sukuna",
+  "aceable": true,
+  "ace": [{"18":2,"62":1},{"18":3,"62":2}],
+  "emote": "<:19:1256114413690425485>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "37",
+  "rank": "B",
+  "name": "Mechamaru",
+  "card": "https://eve.sukunabot.xyz/a1/37.png",
+  "description":"Cyborg, Traitor",
+  "aceable": true,
+  "ace": [{"26":2},{"26":3}],
+  "emote": "<:37:1256114560889258015>",
+  "event":false
+}

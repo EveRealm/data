@@ -1,0 +1,11 @@
+{
+  "id": "95",
+  "rank": "A",
+  "name": "Naoya Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/95.png",
+  "description":"Zenin Clan Member",
+  "aceable": true,
+  "ace": [{"41":2},{"41":3}],
+  "emote": "<:95:1256116696633049199>",
+  "event":false
+}

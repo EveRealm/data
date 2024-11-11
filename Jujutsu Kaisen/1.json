@@ -1,0 +1,11 @@
+{
+  "id": "1",
+  "rank": "A",
+  "name": "Yuji Itadori",
+  "card": "https://eve.sukunabot.xyz/a1/1.png",
+  "description":"Accidental Hero",
+  "aceable": true,
+  "ace": [{"15":3, "14":3, "12":3, "64":2, "65":3, "127":2, "128":2, "80":3},{"64":3, "2":2, "10":3, "3":3, "28":3, "127":3, "128":3}],
+  "emote": "<:1_:1256114299240185990>",
+  "event":false
+}

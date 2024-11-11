@@ -1,0 +1,11 @@
+{
+  "id": "111",
+  "rank": "C",
+  "name": "Chizuru Hari",
+  "card": "https://eve.sukunabot.xyz/a1/111.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:111:1256118800164585535>",
+  "event":false
+}

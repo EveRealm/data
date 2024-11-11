@@ -1,0 +1,11 @@
+{
+  "id": "113",
+  "rank": "A",
+  "name": "Ryu Ishigori",
+  "card": "https://eve.sukunabot.xyz/a1/113.png",
+  "description":"Hunter vibe",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:113:1256118811904442368>",
+  "event":false
+}

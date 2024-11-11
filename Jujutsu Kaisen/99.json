@@ -1,0 +1,11 @@
+{
+  "id": "99",
+  "rank": "C",
+  "name": "Chojuro Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/99.png",
+  "description":"Zenin Clan Member",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:99:1256116721530437633>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40",
+  "rank": "A",
+  "name": "Utahime Iori",
+  "card": "https://eve.sukunabot.xyz/a1/40.png",
+  "description":"For Gojo",
+  "aceable": true,
+  "ace": [{"0":1, "26":2, "39":2, "38":2, "30":2, "50":2},{"26":3, "39":3, "38":3, "30":3, "50":3}],
+  "emote": "<:40:1256114586785157120>",
+  "event":false
+}

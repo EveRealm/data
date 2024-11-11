@@ -1,0 +1,11 @@
+{
+  "id": "80",
+  "rank": "D",
+  "name": "Yuko Ozawa",
+  "card": "https://eve.sukunabot.xyz/a1/80.png",
+  "description":"Yuji's girl",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:80:1256116550730252391>",
+  "event":false
+}

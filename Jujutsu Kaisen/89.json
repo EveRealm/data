@@ -1,0 +1,11 @@
+{
+  "id": "89",
+  "rank": "D",
+  "name": "Tasuke",
+  "card": "https://eve.sukunabot.xyz/a1/89.png",
+  "description":"Doggy",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:89:1256116618870784073>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "43",
+  "rank": "C",
+  "name": "Juzo Kumiya",
+  "card": "https://eve.sukunabot.xyz/a1/43.png",
+  "description":"Got 1 shotted",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:43:1256114603998445599>",
+  "event":false
+}

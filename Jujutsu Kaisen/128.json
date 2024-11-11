@@ -1,0 +1,11 @@
+{
+  "id": "128",
+  "rank": "C",
+  "name": "Kaori Itadori",
+  "card": "https://eve.sukunabot.xyz/a1/128.png",
+  "description":"Yuji's mother but kenjaku",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:128:1265252024857919560>",
+  "event":false
+}

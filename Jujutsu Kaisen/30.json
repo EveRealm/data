@@ -1,0 +1,11 @@
+{
+  "id": "30",
+  "rank": "B",
+  "name": "Yoshinobu Gakuganji",
+  "card": "https://eve.sukunabot.xyz/a1/30.png",
+  "description":"Wise, Grumpy, Flashy grandpa",
+  "aceable": true,
+  "ace": [{"43":2},{"43":3}],
+  "emote": "<:30:1256114496062230608>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "16",
+  "rank": "A",
+  "name": "Masamichi Yaga",
+  "card": "https://eve.sukunabot.xyz/a1/16.png",
+  "description":"Doll Maker",
+  "aceable": true,
+  "ace": [{"52": 2, "5":2, "8":2, "58":2},{"52": 3, "30":3, "5":3, "58":3}],
+  "emote": "<:16:1256114390361702555>",
+  "event":false
+}

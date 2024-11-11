@@ -1,0 +1,11 @@
+{
+  "id": "87",
+  "rank": "D",
+  "name": "Honoka’s Father",
+  "card": "https://eve.sukunabot.xyz/a1/87.png",
+  "description":"Random gir's father",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:87:1256116605897805826>",
+  "event":false
+}

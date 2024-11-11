@@ -1,0 +1,11 @@
+{
+  "id": "50",
+  "rank": "C",
+  "name": "Akari Nitta",
+  "card": "https://eve.sukunabot.xyz/a1/50.png",
+  "description":"Almost died",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:50:1256116348858142834>",
+  "event":false
+}

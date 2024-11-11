@@ -1,0 +1,11 @@
+{
+  "id": "28",
+  "rank": "A",
+  "name": "Aoi Todo",
+  "card": "https://eve.sukunabot.xyz/a1/28.png",
+  "description":"Besto Friendo",
+  "aceable": true,
+  "ace": [{"50":3},{"42":2, "9":3}],
+  "emote": "<:28:1256114483122671677>",
+  "event":false
+}

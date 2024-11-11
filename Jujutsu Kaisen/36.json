@@ -1,0 +1,11 @@
+{
+  "id": "36",
+  "rank": "D",
+  "name": "Bakery Clerk",
+  "card": "https://eve.sukunabot.xyz/a1/36.png",
+  "description":"Bakery girl",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:36:1256114553301897216>",
+  "event":false
+}

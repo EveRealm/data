@@ -1,0 +1,11 @@
+{
+  "id": "91",
+  "rank": "C",
+  "name": "Fly Heads",
+  "card": "https://eve.sukunabot.xyz/a1/91.png",
+  "description":"Mosquito like",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:91:1256116634452758669>",
+  "event":false
+}

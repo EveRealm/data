@@ -1,0 +1,11 @@
+{
+  "id": "75",
+  "rank": "S",
+  "name": "Toji Fushiguro",
+  "card": "https://eve.sukunabot.xyz/a1/75.png",
+  "description":"Fene's Boi, Broke",
+  "aceable": true,
+  "ace": [{"6":1, "77": 3, "82":2, "83":2, "84":2, "61":2, "0":1, "133":2, "2":1},{"41":3, "133":3, "6":2, "22":2, "82":3, "83":3, "84":3, "2":3}],
+  "emote": "<:75:1256116520568881234>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "132",
+  "rank": "B",
+  "name": "Rainbow Dragon",
+  "card": "https://eve.sukunabot.xyz/a1/132.png",
+  "description":"Big white dragon",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:132:1265269450786213929>",
+  "event":false
+}

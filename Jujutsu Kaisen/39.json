@@ -1,0 +1,11 @@
+{
+  "id": "39",
+  "rank": "C",
+  "name": "Momo Nishimiya",
+  "card": "https://eve.sukunabot.xyz/a1/39.png",
+  "description":"Cosplays a witch",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:39:1256114575779172442>",
+  "event":false
+}

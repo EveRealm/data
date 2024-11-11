@@ -1,0 +1,11 @@
+{
+  "id": "70",
+  "rank": "B",
+  "name": "Manami Suda",
+  "card": "https://eve.sukunabot.xyz/a1/70.png",
+  "description":"Random but mommy",
+  "aceable": true,
+  "ace": [{"71":2, "74":2},{"71":3, "74":2}],
+  "emote": "<:70:1256116487039619193>",
+  "event":false
+}

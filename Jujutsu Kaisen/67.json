@@ -1,0 +1,11 @@
+{
+  "id": "67",
+  "rank": "A",
+  "name": "Miguel",
+  "card": "https://eve.sukunabot.xyz/a1/67.png",
+  "description":"Whip master, Overconfident",
+  "aceable": true,
+  "ace": [{"70":2},{"70":3}],
+  "emote": "<:67:1256116460753780826>",
+  "event":false
+}

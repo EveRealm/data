@@ -1,0 +1,11 @@
+{
+  "id": "78",
+  "rank": "C",
+  "name": "Yu Haibara",
+  "card": "https://eve.sukunabot.xyz/a1/78.png",
+  "description":"Nanami's student",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:78:1256116538201739385>",
+  "event":false
+}

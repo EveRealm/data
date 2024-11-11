@@ -1,0 +1,11 @@
+{
+  "id": "82",
+  "rank": "C",
+  "name": "Jiro Awasaka",
+  "card": "https://eve.sukunabot.xyz/a1/82.png",
+  "description":"Thinks he's pro",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:82:1256116565380829194>",
+  "event":false
+}

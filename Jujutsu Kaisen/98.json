@@ -1,0 +1,11 @@
+{
+  "id": "98",
+  "rank": "C",
+  "name": "Jinichi Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/98.png",
+  "description":"Zenin Clan Member",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:98:1256116718175125585>",
+  "event":false
+}

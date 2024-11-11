@@ -1,0 +1,11 @@
+{
+  "id": "88",
+  "rank": "D",
+  "name": "Fumi",
+  "card": "https://eve.sukunabot.xyz/a1/88.png",
+  "description":"Nobara's old fren",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:88:1256116611220504606>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "125",
+  "rank": "B",
+  "name": "Tengen",
+  "card": "https://eve.sukunabot.xyz/a1/125.png",
+  "description":"Doesn't know how to fight",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:125:1256118896742760488>",
+  "event":false
+}

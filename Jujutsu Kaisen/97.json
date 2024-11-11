@@ -1,0 +1,11 @@
+{
+  "id": "97",
+  "rank": "C",
+  "name": "Ranta Zenin",
+  "card": "https://eve.sukunabot.xyz/a1/97.png",
+  "description":"Zenin Clan Member",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:97:1256116709794775111>",
+  "event":false
+}

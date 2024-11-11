@@ -1,0 +1,11 @@
+{
+  "id": "66",
+  "rank": "S",
+  "name": "Rika Orimoto",
+  "card": "https://eve.sukunabot.xyz/a1/66.png",
+  "description":"Clingy, Ghost girlfriend",
+  "aceable": true,
+  "ace": [{"63":1},{"63":2, "113":3, "120":1}],
+  "emote": "<:66:1256116456350023701>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "53",
+  "rank": "C",
+  "name": "Moon Dregs",
+  "card": "https://eve.sukunabot.xyz/a1/53.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:53:1256116369036935178>",
+  "event":false
+}

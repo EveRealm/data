@@ -1,0 +1,11 @@
+{
+  "id": "42",
+  "rank": "A",
+  "name": "Mei Mei",
+  "card": "https://eve.sukunabot.xyz/a1/42.png",
+  "description":"Mommy 😳",
+  "aceable": true,
+  "ace": [{"81":2, "85":2},{"81":3, "85":3}],
+  "emote": "<:42:1256114598650576987>",
+  "event":false
+}

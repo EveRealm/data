@@ -1,0 +1,11 @@
+{
+  "id": "14",
+  "rank": "D",
+  "name": "Setsuko Sasaki",
+  "card": "https://eve.sukunabot.xyz/a1/14.png",
+  "description":"Yuji's friend",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:14:1256114379213115452>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "106",
+  "rank": "C",
+  "name": "Rin Amai",
+  "card": "https://eve.sukunabot.xyz/a1/106.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:106:1256118751930351636>",
+  "event":false
+}

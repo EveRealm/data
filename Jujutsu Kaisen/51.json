@@ -1,0 +1,11 @@
+{
+  "id": "51",
+  "rank": "B",
+  "name": "Eso",
+  "card": "https://eve.sukunabot.xyz/a1/51.png",
+  "description":"Gay",
+  "aceable": true,
+  "ace": [{"49":2},{"49":3}],
+  "emote": "<:51:1256116356282056774>",
+  "event":false
+}

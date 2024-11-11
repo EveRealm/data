@@ -1,0 +1,11 @@
+{
+  "id": "139",
+  "rank": "S",
+  "name": "Roronoa Zoro",
+  "card": "https://eve.sukunabot.xyz/a1/139.png",
+  "description":"Pirate Hunter",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:139:1297664738163163289>",
+  "event":"Halloween 2024 🎃"
+}

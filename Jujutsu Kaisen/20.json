@@ -1,0 +1,11 @@
+{
+  "id": "20",
+  "rank": "D",
+  "name": "Chisaki Okazaki",
+  "card": "https://eve.sukunabot.xyz/a1/20.png",
+  "description":"Some random guy's mother",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:20:1256114419352604743>",
+  "event":false
+}

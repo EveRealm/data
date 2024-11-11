@@ -1,0 +1,11 @@
+{
+  "id": "131",
+  "rank": "S",
+  "name": "Kenjaku",
+  "card": "https://eve.sukunabot.xyz/a1/131.png",
+  "description":"Body hopper, hates own body",
+  "aceable": true,
+  "ace": [{"22":3, "61":2, "24":2, "21":2, "9":2, "105":2},{"45":3, "64":2, "9":3, "105":3}],
+  "emote": "<:131:1265258305891074079>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8",
+  "rank": "C",
+  "name": "Kiyotaka Ijichi",
+  "card": "https://eve.sukunabot.xyz/a1/8.png",
+  "description":"Got stabbed from behind",
+  "aceable": true,
+  "ace": [{"91":2},{"91":3}],
+  "emote": "<:8_:1256114338641743986>",
+  "event":false
+}

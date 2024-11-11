@@ -1,0 +1,11 @@
+{
+  "id": "114",
+  "rank": "B",
+  "name": "Takako Uro",
+  "card": "https://eve.sukunabot.xyz/a1/114.png",
+  "description":"Erm, Idk",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:114:1256121449194721371>",
+  "event":false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "62",
+  "rank": "B",
+  "name": "Demon Dogs",
+  "card": "https://eve.sukunabot.xyz/a1/62.png",
+  "description":"Kawai Dogs",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:62:1256116428596318298>",
+  "event":false
+}

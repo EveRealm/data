@@ -1,0 +1,11 @@
+{
+  "id": "137",
+  "rank": "C",
+  "name": "Piercing Ox",
+  "card": "https://eve.sukunabot.xyz/a1/137.png",
+  "description":"Sukuna's Ox",
+  "aceable": true,
+  "ace": [{},{}],
+  "emote": "<:137:1279091537594028056>",
+  "event":false
+}
